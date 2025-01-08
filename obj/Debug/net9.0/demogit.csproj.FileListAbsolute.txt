@@ -1,0 +1,14 @@
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\bin\Debug\net9.0\demogit.exe
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\bin\Debug\net9.0\demogit.deps.json
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\bin\Debug\net9.0\demogit.runtimeconfig.json
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\bin\Debug\net9.0\demogit.dll
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\bin\Debug\net9.0\demogit.pdb
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\obj\Debug\net9.0\demogit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\obj\Debug\net9.0\demogit.AssemblyInfoInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\obj\Debug\net9.0\demogit.AssemblyInfo.cs
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\obj\Debug\net9.0\demogit.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\obj\Debug\net9.0\demogit.dll
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\obj\Debug\net9.0\refint\demogit.dll
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\obj\Debug\net9.0\demogit.pdb
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\obj\Debug\net9.0\demogit.genruntimeconfig.cache
+C:\Users\pakhr\OneDrive\Desktop\git\demogit\obj\Debug\net9.0\ref\demogit.dll
